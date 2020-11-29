@@ -6,8 +6,6 @@ plain text!!
 Try this site for hex decoding:https://www.online-toolz.com/tools/decode-hex.php
 
 SIMPLE REST-API with gorilla mux router 
-first-step:
-run the server with go run PROGRAMS_NAME 
-server is listening on port
-second step:
-Download postman-api and make(get,put,delete) requests
+First Step:start server with go run command + PROGRAMS NAME 
+Second Step:Download postman 
+Third step:Open postman and make(get,post,put,delete) requests
