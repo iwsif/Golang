@@ -10,7 +10,6 @@ First Step:start server with go run command + PROGRAMS NAME
 Second Step:Download postman 
 Third step:Open postman and make(get,post,put,delete) requests
 
-Simple Api with http builtin package 
-Step one:Start server with go run and the programs name 
-Second Step: Start server.go 
-Third step:Open postman 
+SIMPLE api builded with http package 
+1)Start server.go with go run and the programs name
+2)Open postman for requests
