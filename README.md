@@ -8,6 +8,8 @@
 
 **Basic program for aes encryption with golang crypto library.**
 
+**aes_encryption.go**
+
 Steps:
 
     1)Write the word you want to encrypt and save your key and your ciphertext in file.
