@@ -56,13 +56,21 @@ ________________________________________________________________________________
 **scan.go**
 
 
+
 Features:
           
      Scans all tcp/udp 65535 ports and finds for open ports ...
      Scans for spelcific tcp port ...
      Finds ip of a domain name ...
      Lists all ports for known services ...
-         
+ 
+Arguments:
+
+     --help(Shows help menu)
+     --get_ip(Get ip of host)
+     --port(Scan for specific tcp port)
+     --get_port()
+ 
 
 Run:
     
