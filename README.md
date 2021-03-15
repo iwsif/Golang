@@ -51,9 +51,15 @@ Steps:
 
 ___________________________________________________________________________________________________________________________________________
 
-**Scanner written with builtins.**
+**Extremely fast scanner with go channels **
 
 **scan.go**
+
+
+Features:
+          
+       Scans tcp/udp 65535 ports and finds for open ports!!
+       
 
 Steps:
 
