@@ -1,5 +1,10 @@
 # Golang
 
+***sudo apt-get install go(for ubuntu,debian)***
+
+***sudo yum install go(for red-hat,fedora,suse)***
+
+
 ***Basic program for aes encryption with golang crypto library.***
 
 Steps:
@@ -17,16 +22,21 @@ ________________________________________________________________________________
 
 ***Simple REST-API with gorilla mux router.*** 
 
+**api.go**
+
 Steps:
 
-    1)Start server with go run command + PROGRAMS NAME .
-    2)Download postman-client.
-    3)Open postman and make get,post,put,and delete requests.
+    1)go get -u github.com/gorilla/mux
+    2)Start server with go run command + PROGRAMS NAME .
+    3)Download postman-client.
+    4)Open postman and make get,post,put,and delete requests.
 
  
 ___________________________________________________________________________________________________________________________________________
 
 ***Simple api with http package***
+
+**simple_api.go**
 
 Steps:
   
