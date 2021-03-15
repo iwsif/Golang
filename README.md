@@ -69,8 +69,9 @@ Arguments:
      --help(Shows help menu)
      --get_ip(Get ip of host)
      --port(Scan for specific tcp port)
-     --get_port()
- 
+     --get_port(Get port number for specific service)
+     --tcp_scan(Scan all 65535 tcp/ports)
+     --udp_scan(Scan all 65535 udp/ports)
 
 Run:
     
