@@ -3,7 +3,7 @@
 ***Install go to run programs:***
      
     sudo apt-get install go(for debian,ubuntu)
-    sudo yum install go(for red-hat,fedora,suse)***
+    sudo yum install go(for red-hat,fedora,suse)
 
 
 **Basic program for aes encryption with golang crypto library.**
