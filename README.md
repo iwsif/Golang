@@ -1,11 +1,12 @@
 # Golang
 
-***sudo apt-get install go(for ubuntu,debian)***
+***Install go to run programs:***
+     
+    sudo apt-get install go(for debian,ubuntu)
+    sudo yum install go(for red-hat,fedora,suse)***
 
-***sudo yum install go(for red-hat,fedora,suse)***
 
-
-***Basic program for aes encryption with golang crypto library.***
+**Basic program for aes encryption with golang crypto library.**
 
 Steps:
 
@@ -20,7 +21,7 @@ Steps:
 ___________________________________________________________________________________________________________________________________________
 
 
-***Simple REST-API with gorilla mux router.*** 
+**Simple REST-API with gorilla mux router.** 
 
 **api.go**
 
@@ -34,7 +35,7 @@ Steps:
  
 ___________________________________________________________________________________________________________________________________________
 
-***Simple api with http package***
+**Simple api with http package.**
 
 **simple_api.go**
 
