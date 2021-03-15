@@ -75,7 +75,7 @@ Arguments:
 
 Run:
     
-    go run scan.go(executable wiil be stored at /tmp)
+    go run scan.go(executable will be stored at /tmp)
                
 Build and Run:
       
