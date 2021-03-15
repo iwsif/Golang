@@ -51,7 +51,7 @@ Steps:
 
 ___________________________________________________________________________________________________________________________________________
 
-**Extremely fast scanner with go channels **
+**Extremely fast scanner with go channels**
 
 **scan.go**
 
