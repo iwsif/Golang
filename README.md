@@ -32,7 +32,7 @@ ________________________________________________________________________________
 Steps:
 
     1)go get -u github.com/gorilla/mux
-    2)Start server with go run command + PROGRAMS NAME .
+    2)Start server with go run api.go .
     3)Download postman-client.
     4)Open postman and make get,post,put,and delete requests.
 
@@ -58,12 +58,18 @@ ________________________________________________________________________________
 
 Features:
           
-       Scans tcp/udp 65535 ports and finds for open ports!!
-       
+     Scans tcp/udp 65535 ports and finds for open ports ...
+     Finds ip of a domain name ...
+     Lists all ports for known services ...
+         
 
-Steps:
-
-     1) go run scan.go
+Run:
+    
+    go run scan.go(executable wiil be stored at /tmp)
+               
+Build and Run:
+      
+    go build scan.go && go run scan.go
 
 
 
